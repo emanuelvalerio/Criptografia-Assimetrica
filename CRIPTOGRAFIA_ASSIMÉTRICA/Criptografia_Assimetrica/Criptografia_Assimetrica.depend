@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1574451039 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\caractere2.c
+	<stdio.h>
+	"../Caractere2.h"
+	"../Descriptografar_Caractere.h"
+
+1574253008 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\caractere2.h
+
+1574203605 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\descriptografar_caractere.h
+
+1574769030 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\criptografar_caractere.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Criptografar_Caractere.h"
+	"../Guardar_texto.h"
+
+1574190516 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografar_caractere.h
+
+1573684151 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\guardar_texto.h
+
+1574514635 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\criptografia_decimal.c
+	<stdio.h>
+	<string.h>
+	"../Criptografia_Decimal.h"
+	<windows.h>
+
+1573791575 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_decimal.h
+
+1574529969 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\criptografia_hexadecimal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Guardar_texto.h"
+	"../Criptografia_Hexadecimal.h"
+
+1573693137 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_hexadecimal.h
+
+1574514804 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\criptografia_octal.c
+	<stdio.h>
+	<stdlib.h>
+	"../Guardar_texto.h"
+	"../Criptografia_Octal.h"
+
+1573818802 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_octal.h
+
+1574519787 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\descriptografar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"../Descriptografar.h"
+	"../MENU.h"
+
+1572524507 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\descriptografar.h
+
+1573558011 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\menu.h
+
+1574515695 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\descriptografar_caractere.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"../Descriptografar_Caractere.h"
+
+1574777975 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\descriptografar_hexadecimal.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"../Descriptografar_Hexadecimal.h"
+
+1573693017 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\descriptografar_hexadecimal.h
+
+1574777975 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\descriptografar_octal.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"../Descriptografar_Octal.h"
+
+1573819440 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\descriptografar_octal.h
+
+1574725189 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\descriptografia_decimal.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"../Criptografia_Decimal.h"
+
+1574529901 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\gerar_chave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<time.h>
+	"../MENU.h"
+	"../Menu_Criptografar.h"
+	"../Criptografar.h"
+	"../Descriptografar.h"
+	"../Guardar_texto.h"
+	"../Gerar_Chave.h"
+
+1572526756 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\menu_criptografar.h
+
+1572524241 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografar.h
+
+1573565760 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\gerar_chave.h
+
+1574527547 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\guardar_texto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"../Guardar_texto.h"
+	"../Menu_Criptografar.h"
+	"../MENU.h"
+
+1574530488 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574530488 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+
+1574517801 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\menu_criptografar.c
+	<stdio.h>
+	<stdlib.h>
+	"../Menu_Criptografar.h"
+	"../Guardar_texto.h"
+
+1574299485 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\saber_mais.h
+
+1574524868 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\saber_mais.c
+	<stdio.h>
+	<stdlib.h>
+	"../Saber_mais.h"
+
+1574777975 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\descriptografar_caractere_parte1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<locale.h>
+	"../Descriptografar_Caractere_parte1.h"
+
+1574519437 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\descriptografar_caractere_parte1.h
+
+1574769328 source:c:\users\wind 10\documents\trabalho_criptografia_assim»trica\criptografia_assimetrica\descriptografar_caractere_parte2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Descriptografar_Caractere_parte2.h"
+
+1574519730 c:\users\wind 10\documents\trabalho_criptografia_assim»trica\descriptografar_caractere_parte2.h
+

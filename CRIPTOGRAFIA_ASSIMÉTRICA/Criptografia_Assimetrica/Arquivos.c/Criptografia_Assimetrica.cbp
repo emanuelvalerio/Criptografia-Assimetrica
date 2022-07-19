@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Criptografia_Assimetrica" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Criptografia_Assimetrica" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Criptografia_Assimetrica" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../Caractere2.h" />
+		<Unit filename="../Criptografar_Caractere.h" />
+		<Unit filename="../Criptografia_Decimal.h" />
+		<Unit filename="../Criptografia_Hexadecimal.h" />
+		<Unit filename="../Criptografia_Octal.h" />
+		<Unit filename="../Descriptografar.h" />
+		<Unit filename="../Descriptografar_Caractere.h" />
+		<Unit filename="../Descriptografar_Decimal.h" />
+		<Unit filename="../Descriptografar_Hexadecimal.h" />
+		<Unit filename="../Descriptografar_Octal.h" />
+		<Unit filename="../Gerar_Chave.h" />
+		<Unit filename="../Guardar_texto.h" />
+		<Unit filename="../MENU.h" />
+		<Unit filename="../Menu_Criptografar.h" />
+		<Unit filename="Caractere2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Criptografar_Caractere.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Criptografia_Decimal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Criptografia_Hexadecimal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Criptografia_Octal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Descriptografar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Descriptografar_Caractere.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Descriptografar_Hexadecimal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Descriptografar_Octal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Descriptografia_Decimal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Gerar_Chave.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Guardar_texto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menu_Criptografar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

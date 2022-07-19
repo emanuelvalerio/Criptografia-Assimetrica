@@ -1,0 +1,6 @@
+#ifndef DESCRIPTOGRAFAR_H_INCLUDED
+#define DESCRIPTOGRAFAR_H_INCLUDED
+
+void Descriptografar();
+
+#endif // DESCRIPTOGRAFAR_H_INCLUDED
